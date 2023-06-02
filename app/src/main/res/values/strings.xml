@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="first_digit">Первое число - </string>
+    <string name="second_digit">Второе число - </string>
+    <string name="add">Сложить</string>
+    <string name="first">Введите 1-ое число</string>
+    <string name="second">Введите 2-ое число</string>
+</resources>
